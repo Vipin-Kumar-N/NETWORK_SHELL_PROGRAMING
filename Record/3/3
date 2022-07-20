@@ -1,0 +1,6 @@
+user@user-HCL-Desktop:~/Desktop/Record/3$ chmod 755 3.sh
+user@user-HCL-Desktop:~/Desktop/Record/3$ ./3.sh
+Enter the 3 numbers
+-10 123 52
+The largest number is 123
+

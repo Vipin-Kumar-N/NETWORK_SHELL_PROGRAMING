@@ -1,0 +1,20 @@
+deepak@deepak-System-Product-Name:~/Desktop/Record/8$ chmod 755 8.sh
+deepak@deepak-System-Product-Name:~/Desktop/Record/8$ ./8.sh
+Logged in users:
+deepak   :0           2022-07-06 03:43 (:0)
+Loggin Names:
+deepak
+Current Shell:
+/bin/bash
+Home Directory:
+/home/deepak
+Operating System type:
+GNU/Linux
+linux-gnu
+Path Settings:
+/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+Current working directory:
+/home/deepak/Desktop/Record/8
+No.of logged in users:
+1
+

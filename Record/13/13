@@ -1,0 +1,20 @@
+deepak@deepak-System-Product-Name:~/Desktop/Record/13$ bash 13.sh
+Enter the file name with extension: 
+test.txt
+Enter old string to be replaced: 
+shell
+Enter new string: 
+linux shell
+File before replace
+A shell is a command line interpreter and typical operations performed by shell scripts
+include file manipulation, program execution, and printing text.
+File after replace
+A linux shell is a command line interpreter and typical operations performed by shell scripts
+include file manipulation, program execution, and printing text.
+Before coversion of second line into upper case: 
+A linux shell is a command line interpreter and typical operations performed by shell scripts
+include file manipulation, program execution, and printing text.
+After coversion of second line into upper case: 
+A linux shell is a command line interpreter and typical operations performed by shell scripts
+INCLUDE FILE MANIPULATION, PROGRAM EXECUTION, AND PRINTING TEXT.
+

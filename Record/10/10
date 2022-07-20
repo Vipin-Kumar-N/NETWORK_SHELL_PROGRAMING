@@ -1,0 +1,33 @@
+deepak@deepak-System-Product-Name:~/Desktop/Record/10$ bash 10.sh
+Read the contents of a file
+Enter file name to be read with extension: 
+com.txt
+Comments are the useful information that the developers provide to make the reader understand the source code. It explains the logic or a part of it used in the code. Comments are usually helpful to someone maintaining or enhancing your code when you are no longer around to answer questions about it. These are often cited as a useful programming convention that does not take part in the output of the program but improves the readability of the whole program.
+
+
+Append a file
+Enter file name to append content with extension: 
+linux.txt
+Enter file name to be append with extension: 
+hello.txt
+Before append
+hello
+After append
+hello
+Linux is the kernal for different Operating Systems 
+
+
+Search for a file
+Enter the name of the file with extension: 
+com.txt
+com.txt exist
+
+
+Delete a file
+Enter file name to be deleted with extension: 
+hello.txt
+Before delete
+10.sh  com.txt	hello.txt  linux.txt
+After delete
+10.sh  com.txt	linux.txt
+

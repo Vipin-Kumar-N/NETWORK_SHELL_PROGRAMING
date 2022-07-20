@@ -1,0 +1,5 @@
+user@user-HCL-Desktop:~/Desktop/Record$ bash 1.sh
+Enter two values space separated
+10 20
+Addition of 10 and 20 is 30
+

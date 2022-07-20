@@ -1,0 +1,58 @@
+user@user-HCL-Desktop:~/Desktop/Record/4$ chmod 755 4.sh
+user@user-HCL-Desktop:~/Desktop/Record/4$ ./4.sh
+
+<---clear screen---->
+
+enter the 1st number
+10
+enter the 2nd number
+20
+1.Addition
+2.Substraction
+3.Multiplication
+4.Division
+Enter your choice
+1
+Sum=30
+Do you want to continue[y/n]
+y
+enter the 1st number
+20
+enter the 2nd number
+30
+1.Addition
+2.Substraction
+3.Multiplication
+4.Division
+Enter your choice
+2
+Difference=-10
+Do you want to continue[y/n]
+y
+enter the 1st number
+5
+enter the 2nd number
+12
+1.Addition
+2.Substraction
+3.Multiplication
+4.Division
+Enter your choice
+3
+Product=60
+Do you want to continue[y/n]
+y
+enter the 1st number
+16
+enter the 2nd number
+4
+1.Addition
+2.Substraction
+3.Multiplication
+4.Division
+Enter your choice
+4
+Answer=4
+Do you want to continue[y/n]
+n
+
